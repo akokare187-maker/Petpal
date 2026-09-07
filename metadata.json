@@ -1,0 +1,6 @@
+{
+  "name": "PetPal",
+  "description": "A cute, friendly, and complete pet organization dashboard for managing profiles, feeding schedules, walks, appointments, reminders, photos, and health notes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
